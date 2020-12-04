@@ -10,6 +10,6 @@ for line in fh:
         lst.append(word)
         lst.sort()
 print(lst[ :11])
-print("Switch between branch, now I am in main branch")
+print("Switch between branch, now I am in test branch")
 
 Print('This is to check the changes-test purpose only')
